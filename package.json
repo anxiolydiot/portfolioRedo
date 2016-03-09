@@ -1,0 +1,23 @@
+{
+  "name": "new_portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "connect": "^3.4.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "express-stormpath": "^2.3.7",
+    "iron-node": "^2.1.14",
+    "node": "0.0.0",
+    "node-github": "0.0.3",
+    "phantomjs2": "^2.2.0"
+  }
+}
