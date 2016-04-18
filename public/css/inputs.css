@@ -121,6 +121,26 @@ footer {
     background-size: contain;
 }
 
+#techLogos {
+    width: 100%;
+    margin: 0 auto;
+
+
+}
+
+/*#express {
+    padding left: 10%;
+}*/
+
+/*#node{
+    padding left: 10%;
+}*/
+
+h2{
+     text-align: center;
+ }
+
+
 th td tr {
 word-wrap: break-word;
 max-width: 150px;
