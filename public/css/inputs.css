@@ -128,13 +128,41 @@ footer {
 
 }
 
-/*#express {
-    padding left: 10%;
-}*/
+#rutgersVF{
+    margin-top:  2%;
+}
 
-/*#node{
-    padding left: 10%;
-}*/
+#myCarousel{
+    margin-bottom: 10%;
+    width: 47%;
+    margin: 0 auto;
+}
+
+#imgC {
+    width: 100%;
+    height: 100%;
+}
+
+.carousel-content {
+  position: absolute;
+  bottom: 10%;
+  left: 5%;
+  z-index: 20;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0,0,0,.6);
+}
+
+body { 
+  background: url(../images/maps_future.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  z-index: -20;
+  width:100%;
+  height:100%;
+}
+
 
 h2{
      text-align: center;
@@ -146,3 +174,7 @@ word-wrap: break-word;
 max-width: 150px;
 
 }
+#reP{
+   text-align: center;
+}
+
