@@ -1,5 +1,7 @@
 $(document).ready(function(){
 
-$('#example').tooltip('click');
+
+    $('[data-toggle="popover"]').popover();   
+
 
 });
