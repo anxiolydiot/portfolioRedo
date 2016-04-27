@@ -177,8 +177,22 @@ max-width: 150px;
 }
 #reP{
    text-align: center;
+   color: white;
 }
 #HC{
     
 }
 
+.panel-default > .panel-heading {
+
+    background-color: #212526;
+}
+
+#accordian{
+     background-color: #212526;
+}
+
+#port{
+    background-color: #212526;
+    /*background-color: linear-gradient(to transparent, #212526 , transparent);*/
+}
